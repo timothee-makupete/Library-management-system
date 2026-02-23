@@ -1,0 +1,104 @@
+Toni Morrison,Beloved,9781400033416,1987,6
+Roald Dahl,Charlie and the Chocolate Factory,9780142410318,1964,14
+Jack London,The Call of the Wild,9780486264721,1903,8
+Ken Kesey,One Flew Over the Cuckoo's Nest,9780451163967,1962,10
+Joseph Heller,Catch-22,9780684833392,1961,7
+John Fowles,The French Lieutenant's Woman,9780316291163,1969,6
+George R.R. Martin,A Game of Thrones,9780553381689,1996,12
+Kurt Vonnegut,Slaughterhouse-Five,9780440180296,1969,9
+J.D. Salinger,The Catcher in the Rye,9780316769488,1951,10
+J.K. Rowling,Harry Potter and the Philosopher's Stone,9781408855652,1997,15
+Jane Austen,Emma,9780141439587,1815,8
+Harper Lee,Go Set a Watchman,9780062409867,2015,7
+Charlotte Perkins Gilman,The Yellow Wallpaper,9780486298573,1892,5
+Leo Tolstoy,Anna Karenina,9780143035008,1877,13
+Raymond Chandler,The Big Sleep,9780394758282,1939,8
+George Orwell,Animal Farm,9780451526342,1945,7
+H.G. Wells,The Time Machine,9780486284729,1895,9
+Miguel de Cervantes,Don Quixote,9780060934347,1605,12
+Jane Austen,Sense and Sensibility,9780141439662,1811,7
+Gillian Flynn,Gone Girl,9780307588364,2012,8
+Harper Lee,To Kill a Mockingbird,9780060935467,1960,11
+Suzanne Collins,The Hunger Games,9780439023481,2008,13
+C.S. Lewis,The Chronicles of Narnia,9780064404990,1950,9
+J.R.R. Tolkien,The Hobbit,9780345339683,1937,11
+John Green,Looking for Alaska,9780142402511,2005,8
+Ernest Hemingway,A Farewell to Arms,9780684801469,1929,9
+F. Scott Fitzgerald,Tender Is the Night,9780684801544,1934,7
+Margaret Atwood,The Testaments,9780385543781,2019,8
+Gustave Flaubert,Madame Bovary,9780143129110,1856,7
+Orhan Pamuk,My Name Is Red,9780307264878,1998,9
+Charles Dickens,A Tale of Two Cities,9780141439600,1859,10
+Gabriel Garcia Marquez,Love in the Time of Cholera,9780307389732,1985,12
+J.D. Salinger,Nine Stories,9780316767729,1953,6
+Ray Bradbury,The Martian Chronicles,9780380973835,1950,9
+Haruki Murakami,Norwegian Wood,9780375704024,1987,8
+Agatha Christie,Murder on the Orient Express,9780062073509,1934,7
+Ayn Rand,Atlas Shrugged,9780452011878,1957,14
+James Joyce,Ulysses,9780141182803,1922,11
+Harper Lee,Go Set a Watchman,9780062420701,2015,7
+Fyodor Dostoevsky,Crime and Punishment,9780143107637,1866,9
+Virginia Woolf,To the Lighthouse,9780156907392,1927,7
+Yann Martel,Life of Pi,9780156027328,2001,10
+George R.R. Martin,A Clash of Kings,9780553381696,1998,10
+Haruki Murakami,Kafka on the Shore,9781400079278,2002,8
+Arthur Conan Doyle,The Hound of the Baskervilles,9780142437728,1902,12
+Jules Verne,Twenty Thousand Leagues Under the Sea,9780451532138,1870,9
+Virginia Woolf,To the Lighthouse,9780156907392,1927,7
+Chinua Achebe,Things Fall Apart,9780385474542,1958,13
+Margaret Atwood,Alias Grace,9780385475716,1996,8
+Kurt Vonnegut,Cat's Cradle,9780385333481,1963,10
+Vladimir Nabokov,Lolita,9780679723165,1955,11
+Milan Kundera,The Unbearable Lightness of Being,9780060932138,1984,9
+Isabel Allende,The House of the Spirits,9780553273915,1982,8
+Anthony Burgess,Earthly Powers,9780749395182,1980,6
+Terry Pratchett,Guards! Guards!,9780552134637,1989,7
+Herman Melville,Moby-Dick,9780142000083,1851,9
+Albert Camus,The Stranger,9780679720201,1942,8
+Kazuo Ishiguro,Never Let Me Go,9781400078776,2005,7
+Evelyn Waugh,Brideshead Revisited,9780316926343,1945,8
+Tennessee Williams,A Streetcar Named Desire,9780811216029,1947,6
+Ralph Ellison,Invisible Man,9780679732761,1952,10
+Kurt Vonnegut,Breakfast of Champions,9780385334204,1973,9
+Daphne du Maurier,Rebecca,9780380730407,1938,12
+Gabriel Garcia Marquez,Autumn of the Patriarch,9780060882860,1975,7
+Toni Morrison,Beloved,9781400033416,1987,11
+Roald Dahl,Matilda,9780142410370,1988,14
+John Steinbeck,Of Mice and Men,9780140177398,1937,13
+Albert Camus,The Plague,9780679720218,1947,9
+J.R.R. Tolkien,The Silmarillion,9780618391110,1977,7
+Vladimir Nabokov,Pale Fire,9780679410775,1962,6
+Zora Neale Hurston,Their Eyes Were Watching God,9780060838671,1937,9
+Isabel Allende,Eva Luna,9781501117120,1987,8
+Ayn Rand,Atlas Shrugged,9780452011878,1957,10
+John Steinbeck,The Grapes of Wrath,9780143039433,1939,11
+Milan Kundera,The Book of Laughter and Forgetting,9780571224385,1979,7
+George Orwell,Animal Farm,9780451526342,1945,12
+Fyodor Dostoevsky,Crime and Punishment,9780140449130,1866,10
+Harper Lee,To Kill a Mockingbird,9780060935467,1960,15
+Philip K. Dick,Do Androids Dream of Electric Sheep?,9780345404473,1968,8
+Joseph Heller,Catch-22,9780684833392,1961,9
+J.D. Salinger,Franny and Zooey,9780316769495,1961,6
+Hermann Hesse,Siddhartha,9780553208849,1922,7
+Arthur Conan Doyle,The Adventures of Sherlock Holmes,9780192123100,1892,12
+Oscar Wilde,The Picture of Dorian Gray,9780486278070,1890,11
+George Orwell,Down and Out in Paris and London,9780156262248,1933,7
+D.H. Lawrence,Sons and Lovers,9780141441443,1913,8
+E.M. Forster,A Room with a View,9780199535972,1908,9
+Jack Kerouac,On the Road,9780140283297,1957,10
+Ayn Rand,The Fountainhead,9780451191151,1943,11
+J.R.R. Tolkien,The Two Towers,9780345339713,1954,13
+Margaret Mitchell,Gone with the Wind,9781451635621,1936,12
+Virginia Woolf,Orlando,9780156701602,1928,7
+John Steinbeck,Cannery Row,9780140177381,1945,6
+Aldous Huxley,Brave New World,9780060929879,1932,15
+Harper Lee,Go Set a Watchman,9780062409850,2015,8
+Kazuo Ishiguro,The Remains of the Day,9780679731726,1989,9
+Anne Frank,The Diary of a Young Girl,9780553296983,1947,11
+Bram Stoker,Dracula,9780141439846,1897,12
+Oscar Wilde,The Importance of Being Earnest,9780486264783,1895,7
+Ken Kesey,One Flew Over the Cuckoo's Nest,9780141181226,1962,10
+Gabriel Garcia Marquez,Love in the Time of Cholera,9781400034680,1985,9
+Margaret Atwood,The Blind Assassin,9780385720953,2000,7
+Chinua Achebe,Arrow of God,9780141186894,1964,6
+william shakespere,Macbeth,646678784989994,1987,129
